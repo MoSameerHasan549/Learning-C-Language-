@@ -1,12 +1,1 @@
-# C Calculator
-
-A simple calculator made in C.
-
-## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Division by zero check
-
-Made while learning C Programming.
+This repository contains my C programming learning journey as a B.Tech Artificial Intelligence & Machine Learning student. I am using this repository to practice programming fundamentals, improve my problem-solving skills, and build a strong foundation for advanced programming and AI/ML concepts. It includes programs based on variables, data types, operators, conditional statements, loops, functions, recursion, arrays, strings, pointers, structures, and basic algorithms. I am also practicing programs such as Fibonacci series, factorial, calculators, unit converters, number problems, and array operations. My goal is not just to write code that works, but to understand the logic behind each program and gradually improve my coding skills. I will continue updating this repository as I learn new concepts, solve more problems, fix mistakes, and build more advanced projects during my B.Tech journey. This repository represents my progress from basic C programming toward stronger programming, data structures, problem-solving, and eventually Artificial Intelligence and Machine Learning development.
